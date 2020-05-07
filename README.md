@@ -23,15 +23,20 @@ Texto: Conchi sarabia
 ## p7
 Textura aplicada a forma con movimiento, "Todo irá bien" [p7_gif](p7.gif),[p7_mp4](p7.pm4)
 
-## p1
-Rodillo de texto, "cuando tu vas yo vengo de alli" [p1_gif](p1.gif),[p1_mp4](p1.pm4)
+## p8
+Textura transparente aplicada a recorrido, "Coronavirus" [p8_justificación](p8_justificación.pdf)
 
-## p1
-Rodillo de texto, "cuando tu vas yo vengo de alli" [p1_gif](p1.gif),[p1_mp4](p1.pm4)
+## p9
+Bodegón con _MACOSX, "bodegon" [p9_jpg](p9.jpg)
 
-## p1
-Rodillo de texto, "cuando tu vas yo vengo de alli" [p1_gif](p1.gif),[p1_mp4](p1.pm4)
+## p10
+Bodegón con referencia Lissitzky, "Lissitzky" [p10_jpg](p1o.jpg)
 
-## p1
-Rodillo de texto, "cuando tu vas yo vengo de alli" [p1_gif](p1.gif),[p1_mp4](p1.pm4)
+## p11
+Creación de muñeco.
+Logotipo propio animado "Mona Chita" [p11_mp4](p11.mp4)
 
+# Prácticas propias para subir nota
+
+## p1propia
+Creación de escenario para Moros y Cristianos 2020, "MyC" [p1propia_MyC](p1propia_MyC.jpg)
