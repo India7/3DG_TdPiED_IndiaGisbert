@@ -36,8 +36,6 @@ Bodegón con referencia Lissitzky, "Lissitzky" [p10_jpg](p1o.jpg)
 ## p11
 Creación de muñeco.
 Logotipo propio animado "Mona Chita" [p11_mp4](p11.mp4)
-*En realidad este muñeco ya lo habia hecho yo, por mi cuenta, en vacaciones de semana santa como práctica propia para subir nota, 
-se trata del isotipo de mi marca personal, pero al pedir el ejercicio lo he aprovechado para entregarlo.
 
 # Prácticas propias para subir nota
 
