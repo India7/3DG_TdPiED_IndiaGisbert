@@ -25,7 +25,7 @@ Textura aplicada a forma con movimiento, "Todo irá bien" [p7_gif](p7.gif),[p7_m
 
 ## p8
 Textura transparente aplicada a recorrido, "Coronavirus" [p8_justificación](p8_justificación.pdf)
-*Recuerda que en la práctica, en el Cinema no se me veía el efecto pero en After si, quiere decir que yo seguí la clase e hice el ejercicio pero ambos programas me daban problemas de visualización y exportación.
+*Recuerda que en la práctica, en el After no se me veía el efecto pero en Cinema si, quiere decir que yo seguí la clase e hice el ejercicio pero ambos programas me daban problemas de visualización y exportación.
 
 ## p9
 Bodegón con _MACOSX, "bodegon" [p9_jpg](p9.jpg)
@@ -42,4 +42,5 @@ se trata del isotipo de mi marca personal, pero al pedir el ejercicio lo he apro
 # Prácticas propias para subir nota
 
 ## p1propia
-Creación de escenario para Moros y Cristianos 2020, "MyC" [p1propia_MyC](p1propia_MyC.jpg)
+Creación de escenario para Moros y Cristianos 2020, "MyC" [p1propia_MyC](p1propia_MyC.jpg) [cartel_SportsPassion](cartel_SportsPassion.pdf)
+*Adjunto también el cartel real para el que he utilizado el escenario, es para el concurso del pub Sports Passion que hemos realizado como proyecto en clase, como ves aplico lo aprendido.
