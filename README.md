@@ -42,5 +42,5 @@ se trata del isotipo de mi marca personal, pero al pedir el ejercicio lo he apro
 # Prácticas propias para subir nota
 
 ## p1propia
-Creación de escenario para Moros y Cristianos 2020, "MyC" [p1propia_MyC](p1propia_MyC.jpg) [cartel_SportsPassion](cartel_SportsPassion.pdf)
-*Adjunto también el cartel real para el que he utilizado el escenario, es para el concurso del pub Sports Passion que hemos realizado como proyecto en clase, como ves aplico lo aprendido.
+Creación de escenario para Moros y Cristianos 2020, "MyC" [p1propia_MyC](p1propia_MyC.jpg) 
+*Adjunto también el cartel real para el que he utilizado el escenario, es para el concurso del pub Sports Passion que hemos realizado como proyecto en clase, como ves aplico lo aprendido. [cartel_SportsPassion](cartel_SportsPassion.jpg)
